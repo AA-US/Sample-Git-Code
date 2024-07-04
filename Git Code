@@ -1,21 +1,23 @@
-A1263@HAPC MINGW64 ~
-$ cd
+Bash/Unix commands***
 
 A1263@HAPC MINGW64 ~
-$ cd desktop
+$ cd  ****
+
+A1263@HAPC MINGW64 ~
+$ cd desktop  ****
 
 A1263@HAPC MINGW64 ~/desktop
-$ cd 'Udemy Certs 2024'
+$ cd 'XX 2024' ****
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git status
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git status *****
 On branch master
 
 No commits yet
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
-        new file:   Sample-Prompt Engineering.txt
+        new file:   Sample-Prompt Engineering.csv
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -29,7 +31,7 @@ Untracked files:
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
-        new file:   Sample-Prompt Engineering.txt
+        new file:   Sample-Prompt Engineering.csv
 
 Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
@@ -47,11 +49,11 @@ Untracked files:
         SR.pdf
 
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git add 'Sample-Prompt Engineering.csv'
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git add 'Sample-Prompt Engineering.csv' ****
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git status
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git status  ****
 On branch master
 
 No commits yet
@@ -59,7 +61,7 @@ No commits yet
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   Sample-Prompt Engineering.csv
-        new file:   Sample-Prompt Engineering.txt
+        
 
 Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
@@ -77,38 +79,38 @@ Untracked files:
         SR.pdf
 
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git commit -m"first commit" 'Sample-Prompt Engineering.csv'
+A1263@HAPC MINGW64 ~/desktop/XX (master)
+$ git commit -m"first commit" 'Sample-Prompt Engineering.csv' ****
 [master (root-commit) 568962e] first commit
  1 file changed, 2 insertions(+)
  create mode 100644 Sample-Prompt Engineering.csv
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git config user.email "xx@xx.com"
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git config user.email "xx@xx.com"  ***
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git config user.name "AA-US"
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git config user.name "xx-xx" ***
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git remote add origin https://TokenKey@github.com/AA-US/Sample-Prompt-Engineering.git
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git remote add origin https://TokenKey@github.com/AA-US/Sample-Prompt-Engineering.git ***
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git push -u origin main
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git push -u origin main ****
 error: src refspec main does not match any
 error: failed to push some refs to 'https://github.com/AA-US/Sample-Prompt-Engineering.git'
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git push -u origin main
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git push -u origin main ****
 bash: $'\E[200~$': command not found
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master) - created master branch in GitHub site for this to work
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master) - **** created master branch in GitHub site for this to work. GDestop had master not main as branch
 $
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
 $
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git push -u origin master
+A1263@HAPC MINGW64 ~/desktop/XXs 2024 (master)
+$ git push -u origin master ***
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Delta compression using up to 8 threads
@@ -116,17 +118,35 @@ Compressing objects: 100% (2/2), done.
 Writing objects: 100% (3/3), 257 bytes | 257.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 remote:
-remote: Create a pull request for 'master' on GitHub by visiting:
+remote: Create a pull request for 'master' on GitHub by visiting:***************
 remote:      https://github.com/AA-US/Sample-Prompt-Engineering/pull/new/master
 remote:
 To https://github.com/AA-US/Sample-Prompt-Engineering.git
- * [new branch]      master -> master
+ * [new branch]      master -> master ******************
 branch 'master' set up to track 'origin/master'.
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ git status
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ git status  ****
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+       DDL Samples SQL.txt
+        DDL Samples SQL.txt.bak
+        DDL Samples.txt
+        Dxx.pdf
+        Mxx.pdf
+        SR.pdf
+
+
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ Clear *****
+
+A1263@HAPC MINGW64 ~/desktop/XX 2024 (master)
+$ Git status  ****
 On branch master
 Your branch is up to date with 'origin/master'.
 
@@ -149,15 +169,6 @@ Untracked files:
         MongoDB Tutorila for Beginners.pdf
         ServiceNow Reporting.pdf
 
-
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
-$ Bxx.pdf
-        DDL Samples SQL.txt
-        DDL Samples SQL.txt.bak
-        DDL Samples.txt
-        Dxx.pdf
-        Mxx.pdf
-        SR.pdf
 
 A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
 $
