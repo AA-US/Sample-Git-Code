@@ -101,7 +101,7 @@ A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
 $ git push -u origin main
 bash: $'\E[200~$': command not found
 
-A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master) - created master 
+A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master) - created master branch in GitHub site for this to work
 $
 
 A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
@@ -124,3 +124,41 @@ To https://github.com/AA-US/Sample-Prompt-Engineering.git
 branch 'master' set up to track 'origin/master'.
 
 A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
+
+A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Sample-Prompt Engineering.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    Sample-Prompt Engineering.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Big Data For the Rest of Us.pdf
+        DDL Samples SQL.txt
+        DDL Samples SQL.txt.bak
+        DDL Samples.txt
+        Data Analyst In Python, Tableau, SQL & ChatGTP with Projects.pdf
+        MongoDB Tutorila for Beginners.pdf
+        ServiceNow Reporting.pdf
+
+
+A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
+$ Bxx.pdf
+        DDL Samples SQL.txt
+        DDL Samples SQL.txt.bak
+        DDL Samples.txt
+        Dxx.pdf
+        Mxx.pdf
+        SR.pdf
+
+A1263@HAPC MINGW64 ~/desktop/Udemy Certs 2024 (master)
+$
+
